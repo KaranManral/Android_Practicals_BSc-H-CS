@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ques4</string>
+    <string-array name="images">
+        <item>Tom and Jerry</item>
+        <item>Oggy and Cockroaches</item>
+        <item>Ben 10</item>
+        <item>Doremon</item>
+    </string-array>
+</resources>
